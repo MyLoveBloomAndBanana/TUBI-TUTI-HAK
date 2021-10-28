@@ -1,0 +1,5 @@
+const button = new MessageButton()
+	.setCustomId('primary')
+	.setLabel('Primary')
+	.setStyle('PRIMARY')
+	.setDisabled(true);
